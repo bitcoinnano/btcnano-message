@@ -1,0 +1,30 @@
+{
+  "name": "btcnano-message",
+  "main": "./btcnano-message.min.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bitcoinnano/btcnano-message",
+  "authors": [
+    "Btcnano"
+  ],
+  "description": "Btcnano Message Verification and Signing for Btcnano",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "btcnano",
+    "bitcoin",
+    "bitcore",
+    "btn",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,11 @@
+*.sw[a-z]
+coverage
+node_modules
+
+npm-debug.log
+btcnano-message.js
+btcnano-message.min.js
+tests.js
+
+report
+.DS_Store

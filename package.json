@@ -1,0 +1,39 @@
+{
+  "name": "btcnano-message",
+  "version": "0.1.0",
+  "description": "Btcnano Messages for Btcnano",
+  "author": {
+    "name": "Jack chen",
+    "email": "278910933@qq.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test:node",
+    "coverage": "gulp coverage",
+    "build": "gulp"
+  },
+  "keywords": [
+    "btcnano",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoinnano/btcnano-message.git"
+  },
+  "dependencies": {
+    "btcnano-lib": "^0.1.0"
+  },
+  "devDependencies": {
+    "btcnano-build": "github:bitcoinnano/btcnano-build",
+    "brfs": "^1.3.0",
+    "chai": "~1.10.0",
+    "gulp": "^3.8.10"
+  },
+  "license": "MIT"
+}
