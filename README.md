@@ -1,4 +1,3 @@
-<img src="http://bitcore.io/css/images/module-message.png" alt="btcnano message" height="35">
 # Btcnano Message Verification and Signing for Btcnano
 
 
